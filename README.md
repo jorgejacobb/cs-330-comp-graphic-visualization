@@ -1,6 +1,8 @@
 # CS-330 Journal
 
-![3D Scene](images/scene.png)
+## Project Screenshot
+
+![3D Scene](scene.png)
 
 Throughout this project, I approached designing software as both a **technical and creative process**. Creative thinking in this class was indispensable, because building a 3D scene required more than just writing functional code. It required intentional decisions about **spatial composition, lighting, color palettes, texture usage, and user perspective**. My design process followed a clear cycle of **thinking, designing, implementing, and refining**. I began by conceptualizing the environment and defining its purpose, then translated those ideas into **object placement, transformations, materials, and lighting configurations in OpenGL**. One of the most valuable design skills I developed was the ability to **balance aesthetics with technical constraints, ensuring that shaders, camera positioning, and object scaling worked together cohesively**. **Iterative refinement** played a critical role, as each milestone allowed me to evaluate visual results, incorporate instructor feedback, and improve **depth, realism, and scene structure**. These tactics, especially **iterative prototyping and feedback integration**, are strategies I will continue applying in future academic and professional projects.
 
